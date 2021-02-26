@@ -43,7 +43,7 @@
 - VS Code | IntelliJ IDEA
 - Whimsical | Figma
 
-<em><sup>*</sup> work in progress</em>
+<em><sup>*</sup> beginner, still learning</em>
 
 
 
