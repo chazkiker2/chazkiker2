@@ -1,50 +1,35 @@
-# Hello 👋
+### Hi there, I'm Chaz 👋
 
 <!--
-**chazkiker2/chazkiker2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**chazkiker2/chazkiker2**
+### This is Chaz
 -->
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/chazkiker2)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chaz-kiker/)
 
 <p>
-  <em>Hi! I'm Chaz!</em> I'm a programmer who is wildly absorbed in coding.
-</p>    
+  <em><strong>Hi! I'm Chaz!</strong></em>I'm a Full Stack Web Developer who is completely absorbed in coding.
+</p>
 
 
-```javascript
-const aboutMe = {
-   isHireable: true,
-   pronouns: "he" | "him",
-   code: [Python, JavaScript, Java, TypeScript, HTML, CSS],
-   technologies: {
-      frontEnd: {
-         js: ["React", "Redux"],
-         css: ["Styled Components", "SASS", "LESS", "Material Design", "Semantic UI", "Ant Design"]
-      },
-      backEnd: {
-         java: ["Spring"],
-         python: ["Flask", "FastAPI"],
-      },
-      databases: ["PostgreSQL", "SQLite3", "H2"],
-   },
-   currentOccupation: ["last year student, open for job opportunities"],
-   challenge: "I'm currently teaching myself Rust",
-};
-```
+🌱 I’m currently working on:
+ - Working with a team to build a general-purpose Learning Management System <a href="https://b.reachlms.dev/login">Reach LMS</a>
+ - Teaching Python, data structures, and algorithms
+ - Learning Rust
+ - Studying at <a href="https://lambdaschool.com/">Lambda School</a>
 
-You can find me around: 
- - Learning at <a href="https://lambdaschool.com/">Lambda School</a>
- - Teaching at Bear Den
- - Sucking at <a href="https://www.linkedin.com/in/chaz-kiker/">LinkedIn</a>
- - But most likely sucked in the docs or in an IDE of some sort!!!
+
+:computer: Programming Languages & Tools
+- Python | FastAPI | Flask<sup>*</sup>
+- Java | Spring Framework
+- JavaScript | TypeScript | React | Redux | HTML | CSS | Styled-Components | Ant Design
+- Rust <sup>*</sup>
+- PostgreSQL | SQLite3
+- Heroku | Vercel | Netlify
+- Git | GitHub | Markdown
+- VS Code | IntelliJ IDEA
+- Whimsical | Figma
+
+<em><sup>*</sup> work in progress</em>
 
 ---
