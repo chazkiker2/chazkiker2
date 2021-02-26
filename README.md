@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ```javascript
 const aboutMe = {
-   hireable: true,
+   isHireable: true,
    pronouns: "he" | "him",
    code: [Python, JavaScript, TypeScript, HTML, CSS, Java],
    technologies: {
@@ -40,8 +40,6 @@ const aboutMe = {
    challenge: "I'm currently teaching myself Rust",
 };
 ```
-</br></br>
-
 
 You can find me around: 
  - Learning at <a href="https://lambdaschool.com/">Lambda School</a>
