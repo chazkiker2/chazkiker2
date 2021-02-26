@@ -16,8 +16,14 @@ Here are some ideas to get you started:
 -->
 
 <p>
-  <em>A student at <a href="https://lambdaschool.com/">Lambda School</a>, studying full stack web development & computer science</br></em>
-</p>
+  <em>Hi! I'm Chaz!</em> I'm a software engineer who is wildly addicted to coding. 
+</p>    
+
+You can find me around: 
+ - Learning at <a href="https://lambdaschool.com/">Lambda School</a>
+ - Teaching at Bear Den
+ - Sucking at <a href="https://www.linkedin.com/in/chaz-kiker/">LinkedIn</a>
+ - But most likely sucked in the docs or in an IDE of some sort!!!
 
 
 ```javascript
