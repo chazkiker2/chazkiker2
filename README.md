@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p>
-  <em>Hi! I'm Chaz!</em> I'm a software engineer who is wildly addicted to coding. 
+  <em>Hi! I'm Chaz!</em> I'm a programmer who is wildly absorbed in coding.
 </p>    
 
 
