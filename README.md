@@ -19,15 +19,10 @@ Here are some ideas to get you started:
   <em>Hi! I'm Chaz!</em> I'm a software engineer who is wildly addicted to coding. 
 </p>    
 
-You can find me around: 
- - Learning at <a href="https://lambdaschool.com/">Lambda School</a>
- - Teaching at Bear Den
- - Sucking at <a href="https://www.linkedin.com/in/chaz-kiker/">LinkedIn</a>
- - But most likely sucked in the docs or in an IDE of some sort!!!
-
 
 ```javascript
 const aboutMe = {
+   hireable: true,
    pronouns: "he" | "him",
    code: [Python, JavaScript, TypeScript, HTML, CSS, Java],
    technologies: {
@@ -46,5 +41,12 @@ const aboutMe = {
 };
 ```
 </br></br>
+
+
+You can find me around: 
+ - Learning at <a href="https://lambdaschool.com/">Lambda School</a>
+ - Teaching at Bear Den
+ - Sucking at <a href="https://www.linkedin.com/in/chaz-kiker/">LinkedIn</a>
+ - But most likely sucked in the docs or in an IDE of some sort!!!
 
 ---
