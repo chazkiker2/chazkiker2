@@ -8,7 +8,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chaz-kiker/)
 
 <p>
-  <em><strong>Hi! I'm Chaz!</strong></em>I'm a Full Stack Web Developer who is completely absorbed in coding.
+  <em><strong>Hi! I'm Chaz!</strong></em> I'm a Full Stack Web Developer who is completely absorbed in coding.
 </p>
 
 
