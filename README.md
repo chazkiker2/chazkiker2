@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 const aboutMe = {
    isHireable: true,
    pronouns: "he" | "him",
-   code: [Python, JavaScript, TypeScript, HTML, CSS, Java],
+   code: [Python, JavaScript, Java, TypeScript, HTML, CSS],
    technologies: {
       frontEnd: {
          js: ["React", "Redux"],
