@@ -33,7 +33,7 @@
 
 
 :computer: Programming Languages & Tools
-- Python | FastAPI | Flask<sup>*</sup>
+- Python | FastAPI | Django<sup>*</sup>
 - Java | Spring Framework
 - JavaScript | TypeScript | React | Redux | HTML | CSS | Styled-Components | Ant Design
 - Rust <sup>*</sup>
