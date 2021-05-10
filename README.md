@@ -34,7 +34,7 @@
 
 :computer: Programming Languages & Tools
 - Python | FastAPI | Django
-- Java | Spring Framework
+- Java | Spring Boot
 - JavaScript | TypeScript | React | Redux | HTML | CSS | Styled-Components | Ant Design
 - Rust <sup>*</sup>
 - PostgreSQL | SQLite3
