@@ -11,7 +11,7 @@
 🌱 I’m currently working on:
  - Hunting for a job to call home 
  - Teaching Python, data structures, and algorithms
- - Learning Rust
+ - Learning about Rust, VMs, and blockchain development
  - Reading lots of open source code and learning new things every day
 
 
