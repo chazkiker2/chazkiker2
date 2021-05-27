@@ -18,7 +18,7 @@ I just recently finished studying at <a href="https://lambdaschool.com/">Lambda 
 
 
 :computer: Programming Languages & Tools
-- Python | FastAPI | Django
+- Python | Django | FastAPI
 - Java | Spring Boot
 - JavaScript | TypeScript | React | Redux | HTML | CSS | Styled-Components | Ant Design
 - Rust <sup>*</sup> <em>novice, still learning</em>
