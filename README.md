@@ -21,7 +21,7 @@ I just recently graduated from <a href="https://lambdaschool.com/">Lambda School
 - Rust
 - Python | Django | FastAPI
 - Java | Spring Boot
-- TypeScript | JavaScript | React | Redux | Node.js | Svelte | HTML | CSS | Styled-Components | Ant Design
+- TypeScript | JavaScript | React | Redux | Node.js | Svelte | Styled Components
 - PostgreSQL | SQLite3 | MySQL
 - Heroku | Vercel | Netlify
 - Git | GitHub
