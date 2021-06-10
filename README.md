@@ -16,8 +16,6 @@ I just recently graduated from <a href="https://lambdaschool.com/">Lambda School
      Ryder is an evolving open-source ecosystem revolving around a modern cryptocurrency hardware wallet that protects each user's digital identity and cryptocurrencies
    - [Github Metrics](https://github.com/nikomatsakis/github-metrics)\
      Gathering some metrics about Github projects to collect metrics to track open-source health
- - Dipping my toes into VMs, Blockchain Development, Web3, and Crypto*
- - Teaching Python, data structures, and algorithms
 
 
 :computer: Programming Languages & Tools
