@@ -9,7 +9,7 @@ I just recently graduated from <a href="https://lambdaschool.com/">Lambda School
 
 🌱 I’m currently working on:
  - Hunting for a job to call home 
- - Learning Rust
+ - Falling in love with Rust
  - Getting involved with Open Source
    - [Ryder x Light Labs](https://ryder.id/) — See our [Github Org](https://github.com/Light-Labs)\
      Ryder is an evolving open-source ecosystem revolving around a modern cryptocurrency hardware wallet that protects each user's digital identity and cryptocurrencies
