@@ -18,7 +18,7 @@ I just recently graduated from <a href="https://lambdaschool.com/">Lambda School
 
 :computer: Programming Languages & Tools
 
-- Rust
+- Rust | Tokio | Rocket
 - Python | Django | FastAPI
 - Java | Spring Boot
 - TypeScript | JavaScript | React | Redux | Node.js | Svelte | Styled Components
