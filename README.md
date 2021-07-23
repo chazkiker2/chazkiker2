@@ -4,12 +4,15 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chaz-kiker/)
 
 ### Hi! I'm Chaz!
-I'm a Software Engineer & Full Stack Web Developer who is completely absorbed in coding.\
+I'm a Software Engineer & Full Stack Web Developer who is completely absorbed in coding.
+
+<!--
 I just recently graduated from <a href="https://lambdaschool.com/">Lambda School</a>
+-->
 
 🌱 I’m currently working on:
  - Hunting for a job to call home 
- - Falling in love with Rust
+ - Falling in love with Rust 🦀
  - Getting involved with Open Source
    - [Ryder x Light Labs](https://ryder.id/) — See our [Github Org](https://github.com/Light-Labs)\
      Ryder is an evolving open-source ecosystem revolving around a modern cryptocurrency hardware wallet that protects each user's digital identity and cryptocurrencies
