@@ -1,9 +1,8 @@
-### Hello, nice to see you!
+### Hello! I'm Chaz!
 
 [![GitHub](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/chazkiker2)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chaz-kiker/)
 
-### Hi! I'm Chaz!
 I'm a Software Engineer & Full Stack Web Developer who is completely absorbed in coding.
 
 <!--
