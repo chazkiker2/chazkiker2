@@ -22,7 +22,7 @@ I just recently graduated from <a href="https://lambdaschool.com/">Lambda School
   
 <!-- Gathering some open-source health style metrics about Github projects to monitor open-source communities -->
 
-#### :computer: Programming Languages & Tools
+#### :computer: Languages & Tools
 
 - Rust | Tokio | Rocket
 - Python | Django | FastAPI
