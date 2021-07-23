@@ -14,6 +14,7 @@ I just recently graduated from <a href="https://lambdaschool.com/">Lambda School
  - Falling in love with Rust 🦀
  - Getting involved with Open Source
    - [GitHub Metrics](https://github.com/optopodi/optopodi)
+   - [rust-lang/rust](https://github.com/rust-lang/rust)
    - [Ryder x Light Labs](https://github.com/Light-Labs) 
      <!--
      — See our [Github Org](https://github.com/Light-Labs)\
