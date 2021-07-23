@@ -9,7 +9,7 @@ I'm a Software Engineer & Full Stack Web Developer who is completely absorbed in
 I just recently graduated from <a href="https://lambdaschool.com/">Lambda School</a>
 -->
 
-🌱 I’m currently working on:
+#### 🌱 I’m currently working on:
  - Hunting for a job to call home 
  - Falling in love with Rust 🦀
  - Getting involved with Open Source
@@ -22,7 +22,7 @@ I just recently graduated from <a href="https://lambdaschool.com/">Lambda School
   
 <!-- Gathering some open-source health style metrics about Github projects to monitor open-source communities -->
 
-:computer: Programming Languages & Tools
+#### :computer: Programming Languages & Tools
 
 - Rust | Tokio | Rocket
 - Python | Django | FastAPI
