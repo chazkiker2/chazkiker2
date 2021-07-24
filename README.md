@@ -12,7 +12,7 @@ I just recently graduated from <a href="https://lambdaschool.com/">Lambda School
 #### 🌱 I’m currently working on:
  - Hunting for a job to call home 
  - Falling in love with Rust 🦀
- - Contributing to Open Source
+ - Contributing to open-source
    - [GitHub Metrics](https://github.com/optopodi/optopodi)
    - [rust-lang/rust](https://github.com/rust-lang/rust)
    - [Ryder x Light Labs](https://github.com/Light-Labs) 
