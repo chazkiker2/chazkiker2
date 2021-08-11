@@ -17,9 +17,9 @@ I'm a Software Engineer & Full Stack Web Developer who is completely absorbed in
 
 #### :computer: Languages & Tools:
 - Rust | Tokio | Rocket
-- Java | Spring Boot
+- Java | Spring
 - Python | Django | FastAPI
 - TypeScript | JavaScript | React | Redux | Node.js | Svelte | Styled Components
 - PostgreSQL | SQLite3 | MySQL
-- Heroku | Vercel | Netlify
+- AWS | Heroku | Vercel | Netlify
 - Git | GitHub
