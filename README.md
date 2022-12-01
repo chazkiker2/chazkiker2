@@ -7,7 +7,11 @@ I'm a Software Engineer & Full Stack Web Developer who is completely absorbed in
 
 #### 🌱 I’m currently working on:
  - Software Engineer at The Motley Fool 🃏
- - Falling in love with Rust 🦀
+
+#### 🥹 Things I'm passionate about 
+ - Making bots to automate day-to-day processes
+ - Markdown & documentation
+ - Building things with Rust 🦀
  - Contributing to open-source
    - [GitHub Metrics](https://github.com/optopodi/optopodi)
    - [rust-lang/rust](https://github.com/rust-lang/rust)
@@ -19,6 +23,6 @@ I'm a Software Engineer & Full Stack Web Developer who is completely absorbed in
 - Java | Spring
 - Python | Django | FastAPI
 - TypeScript | JavaScript | React | Redux | Node.js | Svelte | Styled Components
-- PostgreSQL | SQLite3 | MySQL
-- AWS | Heroku | Vercel | Netlify
+- SQL Server | PostgreSQL | SQLite3 | MySQL
+- Docker | AWS | Heroku | Vercel | Netlify
 - Git | GitHub
