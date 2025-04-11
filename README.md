@@ -6,7 +6,7 @@
 I'm a Software Engineer & Full Stack Web Developer who is completely absorbed in coding.
 
 #### 🌱 I’m currently working on:
- - Software Engineer at The Motley Fool 🃏
+ - Principal Software Engineer at The Motley Fool 🃏
 
 #### 🥹 Things I'm passionate about 
  - Automating day-to-day processes (via custom bots or other integrations)
