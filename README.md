@@ -23,7 +23,7 @@ I'm a Software Engineer & Full Stack Web Developer who is completely absorbed in
 - C# | ASP.NET Core | Blazor | Entity Framework
 - Java | Spring
 - Python | Django | FastAPI
-- TypeScript | JavaScript | React | Redux | Vue | Node.js | Svelte | Styled Components
+- TypeScript | JavaScript | React | Next.js | Node.js | Redux | Vue | Svelte | Styled Components
 - AWS
 - SQL Server | PostgreSQL | SQLite3 | MySQL
 - Docker | AWS | Heroku | Vercel | Netlify
