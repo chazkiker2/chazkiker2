@@ -3,7 +3,7 @@
 [![GitHub](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/chazkiker2)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chaz-kiker/)
 
-I'm a Software Engineer & Full Stack Web Developer who is completely absorbed in coding.
+I'm a Principal Software Engineer & Full Stack Web Developer who is completely absorbed in coding.
 
 #### 🌱 I’m currently working on:
  - Principal Software Engineer at The Motley Fool 🃏
@@ -12,6 +12,8 @@ I'm a Software Engineer & Full Stack Web Developer who is completely absorbed in
  - Automating day-to-day processes (via custom bots or other integrations)
  - Markdown & documentation
  - Using data to inform decisions
+
+Things I'm still passionate about (but don't have much time to do these days)
  - Building things with Rust 🦀
  - Contributing to open-source
    - [GitHub Metrics](https://github.com/optopodi/optopodi)
