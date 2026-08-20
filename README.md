@@ -3,10 +3,10 @@
 [![GitHub](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/chazkiker2)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chaz-kiker/)
 
-I'm a Principal Software Engineer & Full Stack Web Developer who is completely absorbed in coding.
+I'm a Staff Software Engineer & Full Stack Web Developer who is completely absorbed in coding.
 
 #### 🌱 I’m currently working on:
- - Principal Software Engineer at The Motley Fool 🃏
+ - Staff Software Engineer at The Motley Fool 🃏
 
 #### 🥹 Things I'm passionate about 
  - Automating day-to-day processes (via custom bots or other integrations)
